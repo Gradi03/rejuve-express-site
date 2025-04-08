@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between">
         <Link to="/" className="text-[#2D6A4F] text-2xl font-semibold flex items-center">
           <img src="/path/to/logo.png" alt="Rejuve Express Logo" className="h-8 mr-2" />
-          Rejuve Express
+          
         </Link>
 
         {/* Mobile Menu Icon */}

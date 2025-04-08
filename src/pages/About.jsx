@@ -17,7 +17,7 @@ const AboutPage = () => {
     >
       {/* Section Title */}
       <motion.header
-        className="text-center mb-16"
+        className="text-center mb-16 mt-16"
         variants={fadeInUp}
         initial="hidden"
         whileInView="visible"
